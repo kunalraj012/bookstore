@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "tittle":"Lorem ipsum dolor sit amet consectetur adipisicing",
+        "price":0,
+        "category":"Free",
+        "image":"./Banner.png"
+    },
+    {
+        "id":2,
+        "name":"Story Book",
+        "tittle":"Lorem ipsum dolor sit amet consectetur adipisicing",
+        "price":0,
+        "category":"Free",
+        "image":"./Banner.png"
+    },
+    {
+        "id":3,
+        "name":"Story Book",
+        "tittle":"Lorem ipsum dolor sit amet consectetur adipisicing",
+        "price":0,
+        "category":"Free",
+        "image":"./Banner.png"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "tittle":"Lorem ipsum dolor sit amet consectetur adipisicing",
+        "price":0,
+        "category":"Free",
+        "image":"./Banner.png"
+    },
+    {
+        "id":5,
+        "name":"Story Book",
+        "tittle":"Lorem ipsum dolor sit amet consectetur adipisicing",
+        "price":0,
+        "category":"Free",
+        "image":"./Banner.png"
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "tittle":"Lorem ipsum dolor sit amet consectetur adipisicing",
+        "price":0,
+        "category":"Free",
+        "image":"./Banner.png"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "tittle":"Lorem ipsum dolor sit amet consectetur adipisicing",
+        "price":0,
+        "category":"Free",
+        "image":"./Banner.png"
+    },
+    {
+        "id":8,
+        "name":"Story Book",
+        "tittle":"Lorem ipsum dolor sit amet consectetur adipisicing",
+        "price":0,
+        "category":"Free",
+        "image":"./Banner.png"
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "tittle":"Lorem ipsum dolor sit amet consectetur adipisicing",
+        "price":0,
+        "category":"Free",
+        "image":"./Banner.png"
+    },
+    {
+        "id":10,
+        "name":"Food Book",
+        "tittle":"Lorem ipsum dolor sit amet consectetur adipisicing",
+        "price":120,
+        "category":"Food",
+        "image":"./Banner.png"
+    },
+    {
+        "id":11,
+        "name":"Music Book",
+        "tittle":"Lorem ipsum dolor sit amet consectetur adipisicing",
+        "price":100,
+        "category":"Music-book",
+        "image":"./Banner.png"
+    },
+    {
+        "id":12,
+        "name":"Comedy Book",
+        "tittle":"Lorem ipsum dolor sit amet consectetur adipisicing",
+        "price":200,
+        "category":"Entertainment",
+        "image":"./Banner.png"
+    }
+]
